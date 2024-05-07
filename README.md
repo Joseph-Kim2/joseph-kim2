@@ -4,7 +4,7 @@
 Hello! My name is Joseph and I'm a senior at the University of Iowa, passionate about data science and analytics. My academic journey and hands-on projects have equipped me with a robust skill set in programming and data analysis.
 
 ## Skills
-- **Programming Languages:** R, Python
+- **Programming Languages:** R, Python, HTML, CSS
 - **Databases:** SQL, Oracle
 - **Analytics Tools:** Databricks, Tableau
 
